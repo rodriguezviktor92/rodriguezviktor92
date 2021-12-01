@@ -1,0 +1,5 @@
+- 👋 Hola, soy @rodriguezviktor92
+- 👀 Estoy interesado en Desarrollo FrontEnd
+- 🌱 Actualmente estoy aprendiendo Desarrollo FrontEnd
+- 💞️ Estoy buscando colaborar en Creación de paginas web
+- 📫 Cómo contactar conmigo https://www.linkedin.com/in/cv-victor-rodriguez/
