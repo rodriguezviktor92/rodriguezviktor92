@@ -4,12 +4,12 @@ Hola 👋 Mi nombre es Victor Rodriguez
 Full Stack Dev JavaScript
 -------------------------
 
-Soy Full Stack Dev JavaScript con experiencia en creación de SPA(Single-page application) usando entre otras cosas React, Redux, Node, Express y PostgreSQL.
+Con experiencia en creación de SPA(Single-page application) usando entre otras cosas React, Redux, Node, Express y PostgreSQL.
 
 * 🌍  Estoy viviendo en Peru
 * ✉️  Puedes contactarme [https://www.linkedin.com/in/cv-victor-rodriguez/](mailto:https://www.linkedin.com/in/cv-victor-rodriguez/)
-* 🚀  Proyecto mas reciente [VikGames](http://vikgames.vercel.app/)
-* 🧠  Cada dia sigo aprendiendo Reactjs
+* 🚀  Proyecto mas reciente [Juego Piedra Papel o Tijeras Online](https://github.com/rodriguezviktor92/rock_paper_scissors_online_with_socket-io)
+* 🧠  Cada dia sigo aprendiendo
 * ⚡  Hobbies: Juego Tibia y me gusta el scraping
 
 ### Skills
